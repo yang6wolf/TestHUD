@@ -2,7 +2,7 @@
 #
 build/
 UnitTest/
-Pods/
+#Pods/
 
 *.pbxuser
 !default.pbxuser
